@@ -117,5 +117,9 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [Bence Fulop](https://github.com/bencefulop) <br/>
+Place: Australia <br/>
+About: Fullstack Dev <br/>
+
 
 
